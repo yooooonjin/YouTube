@@ -1,0 +1,360 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "vfo6pRfXjM3QVrshyqLrbeM_9Jg",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "MZHcmpoEBgZpmuE6WhF0VYLAL6U",
+      "id": "BtytYWhg2mc",
+      "snippet": {
+        "publishedAt": "2024-03-19T15:00:14Z",
+        "channelId": "UCZGYJFUizSax-yElQaFDp5Q",
+        "title": "The Acolyte | Official Trailer | Disney+",
+        "description": "In an age of light, a darkness rises.\n\nOn June 4, don’t miss the two-episode premiere of #TheAcolyte, a Star Wars Original series, only on Disney+.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BtytYWhg2mc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BtytYWhg2mc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BtytYWhg2mc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BtytYWhg2mc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BtytYWhg2mc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Star Wars",
+        "tags": [
+          "star wars",
+          "jedi",
+          "the acolyte",
+          "lucasfilm",
+          "the high republic",
+          "lightsabers"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "The Acolyte | Official Trailer | Disney+",
+          "description": "In an age of light, a darkness rises.\n\nOn June 4, don’t miss the two-episode premiere of #TheAcolyte, a Star Wars Original series, only on Disney+."
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Nr6mt7Q2_x64Mbe44FncesYE5N8",
+      "id": "q2XVtWfancQ",
+      "snippet": {
+        "publishedAt": "2024-03-19T11:00:51Z",
+        "channelId": "UC6L_LBqoKZXFa4WxHox5iCw",
+        "title": "What Makes a Great Basketball Player? |  LeBron James & JJ Redick | Full Episode",
+        "description": "Welcome to the first episode of Mind the Game with LeBron James and JJ Redick. We are really excited to share this podcast where we examine and celebrate the game of basketball. In this first episode we ask ourselves a very simple question, \"What makes a great basketball player?\" That question launches us into discussions about the The Los Lakers recent comeback win against the Los Angeles Clippers, philosophical questions about basketball IQ and we dive into concepts like \"Thumb Down\" and \"Floppy\" and \"Horns Chest.\" We also talk about this year's leap of Jayson Tatum and The Boston Celtics and what makes them so dangerous. And finally, we dive into the influence of Stephen Curry.\n\nWe really hope you enjoy our show. Be sure to subscribe wherever you get your podcasts. And if you'd like to see some of the visuals referenced in this episode, please subscribe to Mind the Game on YouTube at YouTube.com/@MindtheGame\n\nPresented by Uninterrupted and ThreeFourTwo Productions. \n\nSubscribe to Mind the Game with LeBron James and JJ Redick today for more NBA insight, analysis, highlights and more.\n\n#nba #lebronjames #jjredick",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q2XVtWfancQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q2XVtWfancQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q2XVtWfancQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q2XVtWfancQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q2XVtWfancQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mind the Game Pod w/ LeBron James and JJ Redick",
+        "tags": [
+          "lebron james",
+          "jj redick",
+          "lebron james jj redick",
+          "mind the game",
+          "nba",
+          "basketball",
+          "lakers",
+          "lebron highlights",
+          "jj redick highlights",
+          "lebron james jj redick podcast",
+          "lebron james podcast",
+          "jj redick lebron podcast",
+          "los angeles lakers",
+          "lebron lakers",
+          "jj redick lakers",
+          "jj redick espn",
+          "espn",
+          "lebron james jj redick highlights",
+          "mind the game podcast",
+          "lebron podcast",
+          "jj redick lebron james podcast",
+          "stephen curry",
+          "lebron james stephen curry",
+          "jayson tatum",
+          "tatum",
+          "curry",
+          "lebron james youtube"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "What Makes a Great Basketball Player? |  LeBron James & JJ Redick | Full Episode",
+          "description": "Welcome to the first episode of Mind the Game with LeBron James and JJ Redick. We are really excited to share this podcast where we examine and celebrate the game of basketball. In this first episode we ask ourselves a very simple question, \"What makes a great basketball player?\" That question launches us into discussions about the The Los Lakers recent comeback win against the Los Angeles Clippers, philosophical questions about basketball IQ and we dive into concepts like \"Thumb Down\" and \"Floppy\" and \"Horns Chest.\" We also talk about this year's leap of Jayson Tatum and The Boston Celtics and what makes them so dangerous. And finally, we dive into the influence of Stephen Curry.\n\nWe really hope you enjoy our show. Be sure to subscribe wherever you get your podcasts. And if you'd like to see some of the visuals referenced in this episode, please subscribe to Mind the Game on YouTube at YouTube.com/@MindtheGame\n\nPresented by Uninterrupted and ThreeFourTwo Productions. \n\nSubscribe to Mind the Game with LeBron James and JJ Redick today for more NBA insight, analysis, highlights and more.\n\n#nba #lebronjames #jjredick"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Sqrt2Trxt1Xtvsey2WclStj8CRc",
+      "id": "FVswuip0-co",
+      "snippet": {
+        "publishedAt": "2024-03-19T16:00:19Z",
+        "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
+        "title": "FURIOSA : A MAD MAX SAGA | OFFICIAL TRAILER #2",
+        "description": "She will return with a vengeance. Furiosa : A Mad Max Saga - Only in theaters May 24.\n\nAnya Taylor-Joy and Chris Hemsworth star in Academy Award-winning mastermind George Miller’s “Furiosa: A Mad Max Saga,” the much-anticipated return to the iconic dystopian world he created more than 30 years ago with the seminal “Mad Max” films.  Miller now turns the page again with an all-new original, standalone action adventure that will reveal the origins of the powerhouse character from the multiple Oscar-winning global smash “Mad Max: Fury Road.”  The new feature from Warner Bros. Pictures and Village Roadshow Pictures is produced by Miller and his longtime partner, Oscar-nominated producer Doug Mitchell (“Mad Max: Fury Road,” “Babe”), under their Australian-based Kennedy Miller Mitchell banner. \nAs the world fell, young Furiosa is snatched from the Green Place of Many Mothers and falls into the hands of a great Biker Horde led by the Warlord Dementus.  Sweeping through the Wasteland, they come across the Citadel presided over by The Immortan Joe.  While the two Tyrants war for dominance, Furiosa must survive many trials as she puts together the means to find her way home.\nTaylor-Joy stars in the title role, and along with Hemsworth, the film also stars Alyla Browne and Tom Burke. \nMiller penned the script with “Mad Max: Fury Road” co-writer Nico Lathouris.  Miller’s behind-the-scenes creative team includes first assistant director PJ Voeten and second unit director and stunt coordinator Guy Norris, director of photography Simon Duggan (“Hacksaw Ridge,” “The Great Gatsby”), composer Tom Holkenborg, sound designer Robert Mackenzie, editor Eliot Knapman, visual effects supervisor Andrew Jackson and colorist Eric Whipp. The team also includes other longtime collaborators: production designer Colin Gibson, editor Margaret Sixel, sound mixer Ben Osmo, costume designer Jenny Beavan and makeup designer Lesley Vanderwalt, each of whom won an Oscar for their work on “Mad Max: Fury Road.” \nWarner Bros. Pictures Presents, in Association with Village Roadshow Pictures, A Kennedy Miller Mitchell Production, A George Miller Film, “Furiosa: A Mad Max Saga.”  The film will be distributed worldwide by Warner Bros. Pictures, in theaters only nationwide on May 24, 2024 and internationally beginning on 22 May, 2024.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FVswuip0-co/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FVswuip0-co/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FVswuip0-co/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FVswuip0-co/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FVswuip0-co/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Warner Bros. Pictures",
+        "tags": [
+          "2024",
+          "Anya Taylor-Joy",
+          "AnyaTaylorJoy",
+          "Chris Hemsworth",
+          "Coming Soon",
+          "Furiosa",
+          "FuriosaMadMax",
+          "FuriosaMadMaxSaga",
+          "FuriosaMovie",
+          "George Miller",
+          "Mad Max",
+          "MadMax",
+          "MadMaxSaga",
+          "May 24",
+          "May 24 2024",
+          "Movie",
+          "Saga",
+          "Trailer",
+          "WB",
+          "Warner Bros",
+          "Warner Brothers"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "FURIOSA : A MAD MAX SAGA | OFFICIAL TRAILER #2",
+          "description": "She will return with a vengeance. Furiosa : A Mad Max Saga - Only in theaters May 24.\n\nAnya Taylor-Joy and Chris Hemsworth star in Academy Award-winning mastermind George Miller’s “Furiosa: A Mad Max Saga,” the much-anticipated return to the iconic dystopian world he created more than 30 years ago with the seminal “Mad Max” films.  Miller now turns the page again with an all-new original, standalone action adventure that will reveal the origins of the powerhouse character from the multiple Oscar-winning global smash “Mad Max: Fury Road.”  The new feature from Warner Bros. Pictures and Village Roadshow Pictures is produced by Miller and his longtime partner, Oscar-nominated producer Doug Mitchell (“Mad Max: Fury Road,” “Babe”), under their Australian-based Kennedy Miller Mitchell banner. \nAs the world fell, young Furiosa is snatched from the Green Place of Many Mothers and falls into the hands of a great Biker Horde led by the Warlord Dementus.  Sweeping through the Wasteland, they come across the Citadel presided over by The Immortan Joe.  While the two Tyrants war for dominance, Furiosa must survive many trials as she puts together the means to find her way home.\nTaylor-Joy stars in the title role, and along with Hemsworth, the film also stars Alyla Browne and Tom Burke. \nMiller penned the script with “Mad Max: Fury Road” co-writer Nico Lathouris.  Miller’s behind-the-scenes creative team includes first assistant director PJ Voeten and second unit director and stunt coordinator Guy Norris, director of photography Simon Duggan (“Hacksaw Ridge,” “The Great Gatsby”), composer Tom Holkenborg, sound designer Robert Mackenzie, editor Eliot Knapman, visual effects supervisor Andrew Jackson and colorist Eric Whipp. The team also includes other longtime collaborators: production designer Colin Gibson, editor Margaret Sixel, sound mixer Ben Osmo, costume designer Jenny Beavan and makeup designer Lesley Vanderwalt, each of whom won an Oscar for their work on “Mad Max: Fury Road.” \nWarner Bros. Pictures Presents, in Association with Village Roadshow Pictures, A Kennedy Miller Mitchell Production, A George Miller Film, “Furiosa: A Mad Max Saga.”  The film will be distributed worldwide by Warner Bros. Pictures, in theaters only nationwide on May 24, 2024 and internationally beginning on 22 May, 2024."
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dDmXtvSW_ruKD0JJXkv1d3LC0q0",
+      "id": "XSB8s0Yfoi4",
+      "snippet": {
+        "publishedAt": "2024-03-19T13:00:19Z",
+        "channelId": "UClG8odDC8TS6Zpqk9CGVQiQ",
+        "title": "Midas Returns!! | Fortnite’s Rise of Midas",
+        "description": "Midas finds himself breaking out of Hades and all chaos breaks loose in the Rise of Midas event: https://fn.gg/RiseOfMidas\n\nRise of Midas is the return of the legendary Midas across competitive, Fortnite Battle Royale, and Competitive.\n\nFloor is Lava is back! This Limited Time Mode (LTM) puts a twist on the fan favorite limited-time experience! Floor is Lava is back for all of Rise of Midas, so jump in and get the high ground to best the lava overtaking the Island. Unlike regular Floor is Lava, Midas Presents: Floor is Lava features items from Chapter 5 Season 2… plus golden lava!\n\nBut Midas’ touch also stretches to Fortnite Battle Royale. Help Midas flee the Island with special Quests.\n\nAnd the seething rage of being unleashed brings on some hot competition with the Rise of Midas Cup. On March 24, compete in the Rise of Midas Cup! The players who earn the most points in each region will earn the Ascendant Midas Outfit (+ Golden King’s Cape Back Bling), The Golden Touch Pickaxe, and Golden Ascension Wrap before they hit the Shop, while all players who earn at least eight points will earn the The Rise of Midas Loading Screen.\n\nPlay Fortnite Battle Royale, the completely free 100-player PvP mode. One giant map, A Battle Bus, Last one standing wins. ESRB Rating: Teen with Violence.\n\nInstagram: https://www.instagram.com/fortnite/\u200b\nTwitter: https://twitter.com/FortniteGame\u200b\nFacebook: https://www.facebook.com/FortniteGame/\u200b\nTikTok: https://www.tiktok.com/@Fortnite\n\nLearn More: https://www.epicgames.com/fortnite/en-US/home\n\n#Fortnite #Midas #RiseofMidas",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XSB8s0Yfoi4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XSB8s0Yfoi4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XSB8s0Yfoi4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XSB8s0Yfoi4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XSB8s0Yfoi4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fortnite",
+        "tags": [
+          "yt:cc=on",
+          "midas",
+          "fortnite midas",
+          "rise of midas",
+          "fortnite event",
+          "fortnite rise of midas",
+          "fortnite rise of midas event",
+          "fortnite",
+          "ltm",
+          "fortnite ltm",
+          "floor is lava",
+          "floor is lava ltm",
+          "fortnite competitive",
+          "competitive",
+          "fortnite rewards",
+          "fortnite reward",
+          "rewards",
+          "free rewards",
+          "fortnite free rewards",
+          "ascendant midas",
+          "fortnite ascendant midas",
+          "midas outfit",
+          "ascendant midas outfit",
+          "fortnite trailer",
+          "fortnite launch trailer",
+          "launch trailer",
+          "gameplay trailer",
+          "fortnite gameplay trailer"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Midas Returns!! | Fortnite’s Rise of Midas",
+          "description": "Midas finds himself breaking out of Hades and all chaos breaks loose in the Rise of Midas event: https://fn.gg/RiseOfMidas\n\nRise of Midas is the return of the legendary Midas across competitive, Fortnite Battle Royale, and Competitive.\n\nFloor is Lava is back! This Limited Time Mode (LTM) puts a twist on the fan favorite limited-time experience! Floor is Lava is back for all of Rise of Midas, so jump in and get the high ground to best the lava overtaking the Island. Unlike regular Floor is Lava, Midas Presents: Floor is Lava features items from Chapter 5 Season 2… plus golden lava!\n\nBut Midas’ touch also stretches to Fortnite Battle Royale. Help Midas flee the Island with special Quests.\n\nAnd the seething rage of being unleashed brings on some hot competition with the Rise of Midas Cup. On March 24, compete in the Rise of Midas Cup! The players who earn the most points in each region will earn the Ascendant Midas Outfit (+ Golden King’s Cape Back Bling), The Golden Touch Pickaxe, and Golden Ascension Wrap before they hit the Shop, while all players who earn at least eight points will earn the The Rise of Midas Loading Screen.\n\nPlay Fortnite Battle Royale, the completely free 100-player PvP mode. One giant map, A Battle Bus, Last one standing wins. ESRB Rating: Teen with Violence.\n\nInstagram: https://www.instagram.com/fortnite/\u200b\nTwitter: https://twitter.com/FortniteGame\u200b\nFacebook: https://www.facebook.com/FortniteGame/\u200b\nTikTok: https://www.tiktok.com/@Fortnite\n\nLearn More: https://www.epicgames.com/fortnite/en-US/home\n\n#Fortnite #Midas #RiseofMidas"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WFuVo-yyCXe7hApp4AG9bVxUoJc",
+      "id": "bJ_IWWfhBFc",
+      "snippet": {
+        "publishedAt": "2024-03-18T23:18:36Z",
+        "channelId": "UClQ3NafOy_42dJ0toK3QUKw",
+        "title": "If You Build It, I'll Pay For It!",
+        "description": "If you build it, I'll pay for it! We built crazy legos and bought them in real life... and it VERY was expensive!!\n\nMAIN CHANNEL: @BenAzelart \nCAM HUFF: @CamHuff \n\nBUY THE MERCH: https://staywildshop.com\n\nNEW EPISODES EVERY WEEK!!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bJ_IWWfhBFc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bJ_IWWfhBFc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bJ_IWWfhBFc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bJ_IWWfhBFc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bJ_IWWfhBFc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Stay Wild",
+        "tags": [
+          "Ben Azelart",
+          "Brent Rivera",
+          "Pierson Wodzynski",
+          "StayWild",
+          "Stay Wild",
+          "Ben Azelart Podcast",
+          "Lexi Rivera",
+          "Lexi Hensler",
+          "Stokes Twins",
+          "Alan Stokes",
+          "Alex Stokes",
+          "Jeremy Hutchins",
+          "Sofie Dossi",
+          "Dom Brack",
+          "Amp Squad",
+          "TikTok",
+          "Bexi",
+          "Brierson",
+          "Lexi Rivera Boyfriend",
+          "Ben Azelart Girlfriend",
+          "Ben and Lexi",
+          "Brent and Pierson",
+          "Andrew Davila",
+          "Cam Huff",
+          "Dereks Days",
+          "Stay Wild Vlogs",
+          "LEGO",
+          "if you build it"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "If You Build It, I'll Pay For It!",
+          "description": "If you build it, I'll pay for it! We built crazy legos and bought them in real life... and it VERY was expensive!!\n\nMAIN CHANNEL: @BenAzelart \nCAM HUFF: @CamHuff \n\nBUY THE MERCH: https://staywildshop.com\n\nNEW EPISODES EVERY WEEK!!"
+        }
+      }
+    }
+  ],
+  "nextPageToken": "CAUQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 5
+  }
+}
