@@ -1,0 +1,226 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "9aPTBvRN5X4DceZyVEI2slxcAAI",
+  "nextPageToken": "CAUQAA",
+  "pageInfo": {
+    "totalResults": 147,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "c_84LJ4F52eQ3TSIsh8c3FCqcT0",
+      "id": "PLOU2XLYxmsIKnYhSWCe7xEYXtpcuaFzqd",
+      "snippet": {
+        "publishedAt": "2024-01-08T17:47:08Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google Wallet for Developers",
+        "description": "Tips, stories, and tutorials for building and issuing passes with the Google Wallet API",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v5pntxdtktI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v5pntxdtktI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v5pntxdtktI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v5pntxdtktI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v5pntxdtktI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Google Wallet for Developers",
+          "description": "Tips, stories, and tutorials for building and issuing passes with the Google Wallet API"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "XGbXMewVRUjMBXJXlq3jjoZzrG0",
+      "id": "PLOU2XLYxmsILxbiyDRGC94XuT2dBXNY3n",
+      "snippet": {
+        "publishedAt": "2023-12-11T15:57:10Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "ML on Raspberry Pi with MediaPipe",
+        "description": "Get started with Google's on-device machine learning tool, MediaPipe, and learn how you can integrate it into your MediaPipe apps. \n\nFind tutorials on how to create ML models, implement common ML tasks, such as hand gesture recognition, audio classification, and text similarity in MediaPipe apps, and more!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-RUVM_cXn18/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-RUVM_cXn18/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-RUVM_cXn18/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-RUVM_cXn18/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-RUVM_cXn18/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "ML on Raspberry Pi with MediaPipe",
+          "description": "Get started with Google's on-device machine learning tool, MediaPipe, and learn how you can integrate it into your MediaPipe apps. \n\nFind tutorials on how to create ML models, implement common ML tasks, such as hand gesture recognition, audio classification, and text similarity in MediaPipe apps, and more!"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "colg0ZFftoJuTePty-8yATBdmJY",
+      "id": "PLOU2XLYxmsILVnjfBvtTWZC4YiHBwz-4l",
+      "snippet": {
+        "publishedAt": "2023-10-05T14:18:50Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Getting Started with MediaPipe for Web",
+        "description": "Get started with Google's on-device machine learning tool, MediaPipe, and learn how you can integrate it into your web apps. \n\nFind tutorials on implementing common ML tasks, such as hand gesture recognition, image classification, and object detection in web apps, and much more!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C3-WnwzsaJA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C3-WnwzsaJA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C3-WnwzsaJA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C3-WnwzsaJA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C3-WnwzsaJA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Getting Started with MediaPipe for Web",
+          "description": "Get started with Google's on-device machine learning tool, MediaPipe, and learn how you can integrate it into your web apps. \n\nFind tutorials on implementing common ML tasks, such as hand gesture recognition, image classification, and object detection in web apps, and much more!"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "e7kn-hT9KK3KmdoOB7lHre9prF0",
+      "id": "PLOU2XLYxmsIIof-OQwbS0jL7nBTzHYFSv",
+      "snippet": {
+        "publishedAt": "2023-09-28T14:06:21Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Build with Google AI",
+        "description": "Build practical solutions with Google AI technology from content searches to coding assistance and more!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gsxD5_lb3HE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gsxD5_lb3HE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gsxD5_lb3HE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gsxD5_lb3HE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gsxD5_lb3HE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Build with Google AI",
+          "description": "Build practical solutions with Google AI technology from content searches to coding assistance and more!"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "u6AIcJU8RJT-wzsIdtAWmhol3V8",
+      "id": "PLOU2XLYxmsII2j07liOC0htEsjOI3IPCt",
+      "snippet": {
+        "publishedAt": "2023-07-31T20:27:29Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "2023 Solution Challenge Demo Day",
+        "description": "Check out the 2023 Solution Challenge Demo Day hosted by Google Developer Student Clubs (GDSC). Don't miss the opportunity to watch the top 10 finalists demo their projects supporting the UN Sustainable Development Goals and celebrate the Top 3 winning teams!\n\nLearn more about Google Developer Student Clubs by visiting https://goo.gle/gdsc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/duP_AI2B2XM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/duP_AI2B2XM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/duP_AI2B2XM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/duP_AI2B2XM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/duP_AI2B2XM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "2023 Solution Challenge Demo Day",
+          "description": "Check out the 2023 Solution Challenge Demo Day hosted by Google Developer Student Clubs (GDSC). Don't miss the opportunity to watch the top 10 finalists demo their projects supporting the UN Sustainable Development Goals and celebrate the Top 3 winning teams!\n\nLearn more about Google Developer Student Clubs by visiting https://goo.gle/gdsc"
+        }
+      }
+    }
+  ]
+}

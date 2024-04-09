@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VideoCart renders col type correctly 1`] = `
+<a
+  className="false"
+  href="/videos/watch/video id"
+  onClick={[Function]}
+>
+  <div
+    className="min-w-40"
+  >
+    <img
+      alt="video title"
+      className="w-full aspect-video object-cover"
+      src="http://image/"
+    />
+  </div>
+  <div
+    className="text-xs"
+  >
+    <p
+      className="line-clamp-2 mb-2"
+    >
+      video title
+    </p>
+    <p
+      className="text-[0.6rem] font-light"
+    >
+      video channel
+    </p>
+    <p
+      className="text-[0.6rem] font-light"
+    >
+      4
+       days ago
+    </p>
+  </div>
+</a>
+`;
+
+exports[`VideoCart renders row type correctly 1`] = `
+<a
+  className="flex gap-4"
+  href="/videos/watch/video id"
+  onClick={[Function]}
+>
+  <div
+    className="min-w-40"
+  >
+    <img
+      alt="video title"
+      className="w-full aspect-video object-cover"
+      src="http://image/"
+    />
+  </div>
+  <div
+    className="text-xs"
+  >
+    <p
+      className="line-clamp-2 mb-2"
+    >
+      video title
+    </p>
+    <p
+      className="text-[0.6rem] font-light"
+    >
+      video channel
+    </p>
+    <p
+      className="text-[0.6rem] font-light"
+    >
+      4
+       days ago
+    </p>
+  </div>
+</a>
+`;

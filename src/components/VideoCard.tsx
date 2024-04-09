@@ -8,12 +8,14 @@ export default function VideoCard({ video, direction = 'col' }: Props) {
   return (
     <Link
       to={`/videos/watch/${video.id}`}
+      /*TDD TEST를 위한 state */
+      state={{ video }}
       className={`${direction === 'row' && 'flex gap-4'}`}
     >
       <div className='min-w-40'>
         <img
           src={video.thumbnail}
-          alt='video_thumbnale'
+          alt={video.title}
           className='w-full aspect-video object-cover'
         />
       </div>

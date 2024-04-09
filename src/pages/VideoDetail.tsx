@@ -2,7 +2,7 @@ import { useQuery } from '@tanstack/react-query';
 import { useNavigate, useParams } from 'react-router-dom';
 import ChannelVideos from '../components/ChannelVideos';
 import Video from '../components/Video';
-import { useYoutubeApi } from '../context/YoutubeApiProvider';
+import { useYoutubeApi } from '../context/YoutubeApiContext';
 import { DetailVideo } from '../model/video';
 
 export default function VideoDetail() {

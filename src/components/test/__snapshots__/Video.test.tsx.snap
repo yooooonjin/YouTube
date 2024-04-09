@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Video renders correctly 1`] = `
+<DocumentFragment>
+  <section>
+    <div
+      class="w-full"
+    >
+      <div
+        class=""
+        id=""
+      />
+    </div>
+    <div
+      class="mt-5"
+    >
+      <h1
+        class=" font-semibold mb-5"
+      >
+        video title
+      </h1>
+      <div
+        class="flex items-center mb-5"
+      >
+        <img
+          alt="channel_thumbnail"
+          class="rounded-full mr-2"
+          src="channel thumbnail"
+          width="30"
+        />
+        <p>
+          channel title
+        </p>
+      </div>
+      <p
+        class="text-xs line-clamp-3"
+      >
+        video description
+      </p>
+    </div>
+  </section>
+</DocumentFragment>
+`;

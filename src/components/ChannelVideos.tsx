@@ -1,6 +1,6 @@
 import { useQuery } from '@tanstack/react-query';
 import React, { useState } from 'react';
-import { useYoutubeApi } from '../context/YoutubeApiProvider';
+import { useYoutubeApi } from '../context/YoutubeApiContext';
 import { Video } from '../model/video';
 import VideoCard from './VideoCard';
 type Props = {
@@ -8,13 +8,10 @@ type Props = {
 };
 export default function ChannelVideos({ channelId }: Props) {
   const { youtube } = useYoutubeApi();
-  const {} = useQuery({
+  const { data: videos } = useQuery({
     queryKey: ['channelVideos', channelId],
-    queryFn: async () => {
-      youtube?.getVideosByChannelId(channelId).then((res) => setVideos(res));
-    },
+    queryFn: async () => youtube?.getVideosByChannelId(channelId),
   });
-  const [videos, setVideos] = useState<Video[]>();
 
   return (
     <section>

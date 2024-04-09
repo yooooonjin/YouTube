@@ -1,5 +1,5 @@
 import { useQuery } from '@tanstack/react-query';
-import { useYoutubeApi } from '../context/YoutubeApiProvider';
+import { useYoutubeApi } from '../context/YoutubeApiContext';
 import { DetailVideo } from '../model/video';
 import YoutubePlayer from './YoutubePlayer';
 
@@ -27,12 +27,14 @@ export default function Video({ video }: Props) {
             <h1 className=' font-semibold mb-5'>{video.title}</h1>
             {channel && (
               <div className='flex items-center mb-5'>
-                <img
-                  className='rounded-full mr-2'
-                  src={channel.thumbnail}
-                  alt='channel_thumbnail'
-                  width={30}
-                />
+                {channel.thumbnail && (
+                  <img
+                    className='rounded-full mr-2'
+                    src={channel.thumbnail}
+                    alt='channel_thumbnail'
+                    width={30}
+                  />
+                )}
                 <p>{channel.title}</p>
               </div>
             )}

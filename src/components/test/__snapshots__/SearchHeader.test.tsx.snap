@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchHeader renders correctly 1`] = `
+<header
+  className="flex p-4 border-b border-zinc-600"
+>
+  <a
+    className="flex items-center"
+    href="/"
+    onClick={[Function]}
+  >
+    <svg
+      className="text-red-600 text-3xl"
+      fill="currentColor"
+      height="1em"
+      stroke="currentColor"
+      strokeWidth="0"
+      style={
+        Object {
+          "color": undefined,
+        }
+      }
+      viewBox="0 0 576 512"
+      width="1em"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"
+      />
+    </svg>
+    <h1
+      className=" text-lg font-bold ml-2"
+    >
+      Youtube
+    </h1>
+  </a>
+  <form
+    className="w-full text-end md:text-center"
+    onSubmit={[Function]}
+  >
+    <input
+      className="bg-black  w-[50%]  p-3 text-sm"
+      onChange={[Function]}
+      placeholder="Search"
+      type="text"
+      value=""
+    />
+    <button
+      className="bg-zinc-700 inline-block h-full aspect-square text-center"
+    >
+      <svg
+        className=" m-auto text-lg"
+        fill="currentColor"
+        height="1em"
+        stroke="currentColor"
+        strokeWidth="0"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        viewBox="0 0 512 512"
+        width="1em"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M456.69 421.39 362.6 327.3a173.81 173.81 0 0 0 34.84-104.58C397.44 126.38 319.06 48 222.72 48S48 126.38 48 222.72s78.38 174.72 174.72 174.72A173.81 173.81 0 0 0 327.3 362.6l94.09 94.09a25 25 0 0 0 35.3-35.3zM97.92 222.72a124.8 124.8 0 1 1 124.8 124.8 124.95 124.95 0 0 1-124.8-124.8z"
+        />
+      </svg>
+    </button>
+  </form>
+</header>
+`;
